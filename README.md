@@ -14,7 +14,7 @@ Camera  | 8MPx, LED Flash
 
 * Compilation
 
-        # repo init -u git://github.com/RezaT4795/android.git -b cm-13.0
+        # repo init -u git://github.com/RezaT4795/android.git -b master
         
         # repo sync
         
